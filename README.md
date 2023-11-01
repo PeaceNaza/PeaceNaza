@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeaceNaza
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning HTML and CSS 
+- 💞️ I’m looking to collaborate on Front-end projects
 - 📫 kindly reach out to me 
 
 <!---
