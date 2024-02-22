@@ -1,6 +1,6 @@
 # Hey there, i'm Peace Chinaza Nwosu
 
-Welcome to my GitHub profile! I'm a front-end developer with expertise in React, JavaScript, and TypeScript. I enjoy building intuitive and visually appealing user interfaces that deliver exceptional user experiences. 
+Welcome to my GitHub profile! I'm a front-end developer with expertise in React.Js. I enjoy building intuitive and visually appealing user interfaces that deliver exceptional user experiences. 
 ## Skills
 
 - React: I have extensive experience working with React and building scalable and reusable components. I'm proficient in using React hooks and context API for state management and have a strong understanding of React's lifecycle methods.
