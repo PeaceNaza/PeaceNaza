@@ -3,10 +3,12 @@
 Welcome to my GitHub profile! I'm a front-end developer with expertise in React.Js. I enjoy building intuitive and visually appealing user interfaces that deliver exceptional user experiences. 
 ## Skills
 
-- React: I have extensive experience working with React and building scalable and reusable components. I'm proficient in using React hooks and context API for state management and have a strong understanding of React's lifecycle methods.
-- JavaScript and TypeScript: I am proficient in both JavaScript and TypeScript and have a deep understanding of their core concepts and features. I leverage the latest ECMAScript standards and TypeScript's type system to write clean, maintainable, and type-safe code.
 - HTML5 and CSS3: I have a solid understanding of HTML5 and CSS3, including modern layout techniques such as Flexbox and CSS Grid. I strive to write clean and semantic markup, ensuring accessibility and cross-browser compatibility.
 
+- JavaScript and TypeScript: I am proficient in both JavaScript and TypeScript and deeply understand their core concepts and features. I leverage the latest ECMAScript standards and TypeScript's type system to write clean, maintainable, and type-safe code.
+
+- React: I have extensive experience working with React and building scalable and reusable components. I'm proficient in using React hooks and context API for state management and understand React's lifecycle methods.
+  
 - Version Control: I am proficient in using Git for version control, including branching, merging, and resolving conflicts. I am also experienced with GitHub, leveraging its features such as pull requests and code reviews for collaborative development.
 Projects
 <!--
